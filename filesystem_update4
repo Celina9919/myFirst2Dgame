@@ -1,0 +1,10 @@
+res://default_env.tres
+res://player.gd
+res://Player.tscn
+res://Player.gd
+res://Enemy.tscn
+res://Mob.gd
+res://Main.tscn
+res://Main.gd
+res://hud.tscn
+res://HUD.gd
